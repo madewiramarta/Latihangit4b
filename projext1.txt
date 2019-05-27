@@ -1,3 +1,4 @@
 Nama Panggilan	: Marta
 Nim	: 1715051032
 Alamat : Banyuning city
+no 	: hp
